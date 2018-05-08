@@ -6,6 +6,6 @@
     "build": "ckies --output ./dist"
   },
   "dependencies": {
-    "@ckies/cli": "^0.0.4"
+    "@ckies/cli": "^0.0.7"
   }
 }
