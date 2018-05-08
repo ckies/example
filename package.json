@@ -3,9 +3,10 @@
   "version": "0.0.1",
   "description": "Example how to use @ckies/cli",
   "scripts": {
+    "prebuild": "rm -rf ./dist",
     "build": "ckies --output ./dist"
   },
   "dependencies": {
-    "@ckies/cli": "^0.0.7"
+    "@ckies/cli": "^0.0.8"
   }
 }
