@@ -1,0 +1,22 @@
+name: example.com
+info: Personal Website
+output: ./dist
+languages:
+  - en
+additions:
+  - name: necessary_cookie
+    info: Some cookie. IDK what purpose.
+    type: necessary
+    expires: 10y
+  - name: functional_cookie
+    info: Some cookie. IDK what purpose.
+    type: functional
+    expires: 10y
+  - name: performance_cookie
+    info: Some cookie. IDK what purpose.
+    type: performance
+    expires: 10y
+  - name: marketing_cookie
+    info: Some cookie. IDK what purpose.
+    type: marketing
+    expires: 10y
