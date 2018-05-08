@@ -1,6 +1,5 @@
 name: example.com
-info: Personal Website
-output: ./dist
+info: Example Website
 languages:
   - en
 additions:

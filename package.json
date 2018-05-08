@@ -3,9 +3,9 @@
   "version": "0.0.1",
   "description": "Example how to use @ckies/cli",
   "scripts": {
-    "build": "ckies"
+    "build": "ckies --output ./dist"
   },
   "dependencies": {
-    "@ckies/cli": "^0.0.3"
+    "@ckies/cli": "^0.0.4"
   }
 }
