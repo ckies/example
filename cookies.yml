@@ -1,3 +1,6 @@
+links:
+  policy: /foo/custom-policy.html
+  settings: /foo/custom-settings.html
 languages:
   - en
 additions:
